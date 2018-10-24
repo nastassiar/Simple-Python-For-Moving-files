@@ -1,0 +1,9 @@
+Testing for ACI and Azure files
+
+File start on local machine
+Azcopy from local machine to Azure files
+
+Create ACI with that Azure File mounted as a drive
+Create Container that deletes/renames or somehow changes the Files on the drive
+Delete the container instance
+
